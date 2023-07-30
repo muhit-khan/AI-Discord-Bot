@@ -1,4 +1,4 @@
-# Discord Bot using OpenAI's API integration and GPT-3.5_turbo model
+# AI Discord Bot
 
 ## Introduction
 
